@@ -1,0 +1,19 @@
+{
+  "name": "ClickServer",
+  "version": "0.1.0",
+  "description": "Contador de visualização de email Marketing através de um pixel de abertura dentro de uma campanha",
+  "theme": false,
+  "require": {
+    "piwik": ">=2.16.2-b1"
+  },
+  "authors": [
+    {
+      "name": "Piwik",
+      "email": "",
+      "homepage": ""
+    }
+  ],
+  "homepage": "",
+  "license": "GPL v3+",
+  "keywords": []
+}
